@@ -1,0 +1,93 @@
+h1 {
+    color: rgb(12, 13, 14);
+    text-align: center;
+}
+
+#header {
+    background-color: rgb(180, 212, 123);
+    height: 125px;
+    padding: 10px;
+}
+
+.desk {
+    text-align: center;
+    background-color: azure;
+    height: auto;
+    padding: 5px;
+    font-style: italic;
+}
+
+.menu li {
+    display: inline;
+    margin:40px;
+}
+
+.menu a{
+    margin-left: 150px;
+}
+
+.menu  a:hover {
+    font-weight: bold;
+    color: hotpink;
+}
+
+.isi::first-letter {
+    color: blue;
+    font-size: 40px;
+}
+
+.koleksi img{
+    width: 20%;
+}
+
+.koleksi{
+    background-color: rgb(75, 186, 186);
+    width: 80%;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.foto{
+    background-color: black;
+}
+
+.foto img{
+    width: 23%;
+    background-color: bisque;
+}
+
+.gambar img{
+    width: 20%;
+}
+
+.menu li{
+    display: inline;
+    margin: 20px;
+}
+
+.aplikasi li{
+    display: inline;
+    margin: 30px;
+}
+
+.aplikasi a{
+    margin-left: 0px;
+}
+
+
+.promo{
+    text-align: center;
+    margin: 20px;
+    padding: 20px;
+}
+
+.promo h2{
+    color: black;
+}
+
+.koleksi{
+    text-align: center;
+    margin: 20px auto;
+    padding: 20px;
+}
